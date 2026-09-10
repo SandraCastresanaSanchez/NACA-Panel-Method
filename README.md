@@ -88,6 +88,18 @@ Los coeficientes aerodinámicos obtenidos mediante el método de paneles se comp
 
 
 
+## Ejecución
+
+Los scripts pueden ejecutarse directamente desde MATLAB:
+
+- `generar_geometria.m`: genera la geometría y el panelado del perfil.
+- `resolver_metodo_paneles.m`: resuelve el método de paneles Hess–Smith.
+- `teoria_potencial_linealizada.m`: calcula los coeficientes mediante TPL.
+- `calcular_distribucion_presion.m`: obtiene la distribución de `Cp` para distintos ángulos de ataque.
+- `comparar_metodos.m`: compara los resultados de Paneles, TPL y XFLR5.
+
+
+
 ## Estructura del repositorio
 
 
@@ -130,7 +142,7 @@ NACA-Panel-Method/
 
 
 
-Proyecto académico desarrollado en equipo en el **Grado en Ingeniería Aeroespacial**.
+Proyecto académico desarrollado en equipo en el Grado en Ingeniería Aeroespacial. Implementación y análisis numérico realizados en MATLAB.**.
 
 
 
