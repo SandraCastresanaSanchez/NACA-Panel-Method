@@ -142,7 +142,7 @@ NACA-Panel-Method/
 
 
 
-Proyecto académico desarrollado en equipo en el Grado en Ingeniería Aeroespacial. Implementación y análisis numérico realizados en MATLAB.**.
+Proyecto académico desarrollado en equipo en el Grado en Ingeniería Aeroespacial. Implementación y análisis numérico realizados en MATLAB.
 
 
 
