@@ -99,6 +99,12 @@ Los scripts pueden ejecutarse directamente desde MATLAB:
 - `comparar_metodos.m`: compara los resultados de Paneles, TPL y XFLR5.
 
 
+## Documentación
+
+La memoria técnica completa del proyecto, incluyendo el desarrollo teórico, la implementación del método de paneles y el análisis de resultados, está disponible en:
+
+[Memoria técnica — Método de Paneles NACA 6409](docs/Memoria_Tecnica_NACA_6409.pdf)
+
 
 ## Estructura del repositorio
 
@@ -107,25 +113,21 @@ Los scripts pueden ejecutarse directamente desde MATLAB:
 ```text
 
 NACA-Panel-Method/
-
+│
 ├── src/
-
 │   ├── generar_geometria.m
-
 │   ├── resolver_metodo_paneles.m
-
 │   ├── teoria_potencial_linealizada.m
-
 │   ├── calcular_distribucion_presion.m
-
 │   └── comparar_metodos.m
-
+│
 ├── resultados/
-
+│
+├── docs/
+│   └── Memoria_Tecnica_NACA_6409.pdf
+│
 ├── .gitignore
-
 └── README.md
-
 ```
 
 
