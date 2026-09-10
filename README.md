@@ -111,7 +111,6 @@ La memoria técnica completa del proyecto, incluyendo el desarrollo teórico, la
 
 
 ```text
-
 NACA-Panel-Method/
 │
 ├── src/
