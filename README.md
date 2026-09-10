@@ -122,6 +122,10 @@ NACA-Panel-Method/
 │   └── comparar_metodos.m
 │
 ├── resultados/
+│   ├── geometria_panelado.png
+│   ├── distribucion_presion.png
+│   ├── comparacion_cl.png
+│   └── comparacion_cm.png
 │
 ├── docs/
 │   └── Memoria_Tecnica_NACA_6409.pdf
