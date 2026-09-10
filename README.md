@@ -103,7 +103,7 @@ Los scripts pueden ejecutarse directamente desde MATLAB:
 
 La memoria técnica completa del proyecto, incluyendo el desarrollo teórico, la implementación del método de paneles y el análisis de resultados, está disponible en:
 
-[Memoria técnica — Método de Paneles NACA 6409](docs/Memoria_Tecnica_NACA_6409.pdf)
+📄 [Memoria técnica — Método de Paneles NACA 6409](docs/Memoria_Tecnica_NACA_6409.pdf)
 
 
 ## Estructura del repositorio
