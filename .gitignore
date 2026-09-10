@@ -1,0 +1,16 @@
+# Archivos temporales de MATLAB
+*.asv
+*.autosave
+*.m~
+
+# Archivos generados por MATLAB/Simulink
+slprj/
+*.slxc
+*.mex*
+
+# Archivos de registro
+*.log
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
